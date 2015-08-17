@@ -1,0 +1,12 @@
+{
+  "title": "BackpackThis",
+  "name": "backpackthis",
+  "version": "1.0.1",
+  "description": "A Firefox add-on for adding Backpack button on products of Amazon.com website.",
+  "main": "index.js",
+  "author": "me@2hr.me",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}
