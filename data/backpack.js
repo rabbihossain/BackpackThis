@@ -9,7 +9,7 @@ backpackThisLink.href = "https://backpackbang.com/item?ASIN=" + unsafeWindow.ue_
 backpackThisLink.target = "_blank";
 backpackThisLink.style.textDecoration = "none";
 
-backpackThisImg.src = "http://2hr.me/backpack.png";
+backpackThisImg.src = self.options;
 backpackThisImg.className = "backpack-image";
 
 backpackThisText.className = "backpack-text";
