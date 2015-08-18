@@ -21,5 +21,5 @@ backpackThis.id = "backpack-this";
 backpackThisLink.appendChild(backpackThis);
 backpackThis.appendChild(backpackThisImg);
 backpackThis.appendChild(backpackThisText);
-document.querySelector(".a-box-inner").appendChild(backpackThisLink);
+document.querySelector(".a-button-stack").appendChild(backpackThisLink);
 console.log("Product ID:" + unsafeWindow.ue_pti);
