@@ -1,0 +1,23 @@
+#backpack-this {
+  width: 100%;
+  padding: 5px;
+  height: 38px;
+  border-radius: 2px;
+  border: 1px solid grey;
+  margin-top: 10px;
+  background: transparent linear-gradient(to bottom, #F7F8FA, #E7E9EC) repeat scroll 0% 0%;
+}
+#backpack-this:hover {
+  background: linear-gradient(to bottom, rgba(174, 174, 174, 0.05) 0, rgba(67, 67, 67, 0.05) 100%)
+}
+.backpack-text {
+  text-align: left;
+  margin-top: 4px;
+  text-decoration: none;
+  color: #000;
+  font-size: 1.1em;
+}
+.backpack-image {
+  width: 25px;
+  float: left;
+}
